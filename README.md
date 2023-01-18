@@ -71,7 +71,3 @@ $ git commit -m “Modification du titre H1”
 
 Envoyer la nouvelle version sur le dépôt distant: 
 $ git push origin main
-
-
-
-
